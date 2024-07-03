@@ -1,0 +1,7 @@
+{
+  "name": "euroamerica_cl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
